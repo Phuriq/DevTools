@@ -5,3 +5,4 @@ yee
 nani
 please
 kuyyai
+kurek
